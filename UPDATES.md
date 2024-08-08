@@ -1,9 +1,12 @@
 _August 8, 2024_
-# Hello!
-This is a neat little thing where I can post updates for the game on Github and it gets pulled into the game.
-This will probably be deprecated in favour of a Discord Server eventually, but for now, here this is.
+**_Post 2_**
+## Updates:
+- no version update in game because i forgot to
+- Added settings menu
+- Added kill counter after death
+- Temporarily removed alternate types of enemy while I rework it
+- and More!
 
-You might notice the game kinda sucks right now. Well, thats because it isn't done.\
 **Have fun playing Antivirus!**
 
-| [Public GitHub](https://github.com/diamonddevv/antivirus-game-web/) |
+| [Bugs and Issues](https://github.com/diamonddevv/antivirus-game-web/issues/) |
