@@ -1,12 +1,14 @@
-_August 8, 2024_
-**_Post 2_**
+_August 10, 2024_
+**_Post 3_**
+
 ## Updates:
-- no version update in game because i forgot to
-- Added settings menu
-- Added kill counter after death
-- Temporarily removed alternate types of enemy while I rework it
+- Added Google Analytics to the [webpage](https://diamonddevv.github.io/antivirus-game-web)
+- Added the ability for the player to choose a stat to improve after each floor
+    - This will be reworked
 - and More!
 
 **Have fun playing Antivirus!**
 
 | [Bugs and Issues](https://github.com/diamonddevv/antivirus-game-web/issues/) |
+
+---
