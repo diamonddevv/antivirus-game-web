@@ -1,11 +1,9 @@
-_August 10, 2024_
-**_Post 3_**
+_August 11, 2024_
+**_Post 4_**
 
 ## Updates:
-- Added Google Analytics to the [webpage](https://diamonddevv.github.io/antivirus-game-web)
-- Added the ability for the player to choose a stat to improve after each floor
-    - This will be reworked
-- and More!
+- Reworked stats a little
+- Clicking the Diamond in the main menu opens Twitter (and yes, it's called that.)
 
 **Have fun playing Antivirus!**
 
