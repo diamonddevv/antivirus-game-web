@@ -1,11 +1,8 @@
-_August 17, 2024_
-**_Post 7_**
+_August 19, 2024_
+**_Post 8_**
 
 ## Updates:
-- Added 2 new room types
-- Added spike traps
-- Changed Sign Texture
-- Added new Sounds
+- Added new Room
 - Fixed Bugs
 
 **Have fun playing Antivirus!**
